@@ -114,15 +114,9 @@ yarn start
 
 ## Authors
 
-* Bartosz Gryszko (b@gryszko.com)
-* Markus Lindqvist
-* Jacob Lauritzen
-* Special thanks to all contributors!
+* Jason Pettett
+* Special thanks to contributors of the origin project.
 
 ## License
 
 MIT
-
-## Special thanks
-
-Special thanks to [Chalk+Chisel](http://chalkchisel.com) for creating working environment where people grow. This component was created for one of the projects we're working on.
